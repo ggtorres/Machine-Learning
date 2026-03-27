@@ -1,4 +1,4 @@
-# 💳 Quantum Finance: Credit Score Classification & Analysis
+# 💳 Credit Score Classification & Analysis
 
 ## 🎯 Objetivo do Projeto
 
